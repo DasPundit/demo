@@ -1,0 +1,14 @@
+{
+    "_id" : ObjectId("ID1"),
+    "_class" : "ManualEntry",
+    "firstName" : "Alice",
+    "lastName" : "Smith",
+    "customerAddress" : "1234 Street Dr."
+}
+{
+    "_id" : ObjectId("ID2"),
+    "_class" : "ManualEntry",
+    "firstName" : "Bob",
+    "lastName" : "Smith",
+    "customerAddress" : "4321 Drive St."
+}
